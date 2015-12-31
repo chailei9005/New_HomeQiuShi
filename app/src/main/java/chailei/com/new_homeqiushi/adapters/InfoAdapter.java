@@ -1,14 +1,12 @@
 package chailei.com.new_homeqiushi.adapters;
 
 import android.content.Context;
-import android.support.v4.view.ViewPager;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
-import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.squareup.picasso.Picasso;
@@ -21,25 +19,19 @@ import java.util.regex.Pattern;
 
 import chailei.com.new_homeqiushi.CircleTransformation;
 import chailei.com.new_homeqiushi.R;
-import chailei.com.new_homeqiushi.entity.Information;
-import chailei.com.new_homeqiushi.entity.Item;
+import chailei.com.new_homeqiushi.entity.Comment;
 
 /**
- * Created by Administrator on 15-12-29.
+ * Created by Administrator on 15-12-30.
  */
-public class ItemAdapter extends BaseAdapter{
-    private static final String TAG = "ItemAdapter";
+public class InfoAdapter  extends BaseAdapter{
+    private static final String TAG = "InfoAdapter";
     private Context context;
-    private List<Item.ItemsEntity> list;
-    public View.OnClickListener onClickListener;
+    private List<Comment.ItemsEntity> list;
 
-    public ItemAdapter(Context context) {
+    public InfoAdapter(Context context) {
         this.context = context;
-        list = new ArrayList<>();
-    }
-
-    public void setOnClickListener(View.OnClickListener onClickListener) {
-        this.onClickListener = onClickListener;
+        list = new ArrayList<Comment.ItemsEntity>();
     }
 
     @Override
@@ -61,41 +53,27 @@ public class ItemAdapter extends BaseAdapter{
     public View getView(int position, View convertView, ViewGroup parent) {
 
         if(convertView == null){
-            convertView = LayoutInflater.from(context).inflate(R.layout.item,parent,false);
+            convertView = LayoutInflater.from(context).inflate(R.layout.comment_item,parent,false);
             convertView.setTag(new ViewHolder(convertView));
         }
-        Item.ItemsEntity item = list.get(position);
+        Comment.ItemsEntity item = list.get(position);
         ViewHolder holder = (ViewHolder) convertView.getTag();
-        Information information = new Information();
         if(item.getUser() !=null){
-            String login = item.getUser().getLogin();
-            information.setName(login);
-            holder.user_name.setText(login);
-            String icon = item.getUser().getIcon();
-            information.setIcon(icon);
-            int id_user = item.getUser().getId();
-            information.setId_user(id_user);
+            holder.name.setText(item.getUser().getLogin());
             Picasso.with(context)
-                    .load(getIconURL(id_user, icon))
+                    .load(getIconURL(item.getUser().getId(),item.getUser().getIcon()))
                     .transform(new CircleTransformation())
                     .into(holder.icon);
 
         }else{
-            holder.user_name.setText("匿名用户");
+            holder.name.setText("匿名用户");
             holder.icon.setImageResource(R.mipmap.ic_launcher);
             holder.content.setText("无内容");
         }
-        int id = item.getId();
-
-        information.setId(id);
-        information.setPosition(position);
-        String content = item.getContent();
-        information.setContent(content);
-        holder.content.setText(content);
-        holder.linearLayout.setTag(information);
+        holder.content.setText(item.getContent());
         return convertView;
     }
-    public void addAll(Collection<? extends Item.ItemsEntity> collection){
+    public void addAll(Collection<? extends Comment.ItemsEntity> collection){
         list.addAll(collection);
         notifyDataSetChanged();
     }
@@ -112,19 +90,25 @@ public class ItemAdapter extends BaseAdapter{
         return String.format(url, id / 10000, id, icon);
 
     }
-    public  class ViewHolder{
+
+
+    public class ViewHolder{
 
         private final ImageView icon;
-        private final TextView user_name;
+        private final TextView name;
+        private final TextView index;
         private final TextView content;
-        private LinearLayout linearLayout;
+        private final TextView time;
+        private final TextView zan;
 
         public ViewHolder(View view){
-            icon = (ImageView) view.findViewById(R.id.item_icon);
-            user_name = (TextView) view.findViewById(R.id.item_name);
-            content = (TextView) view.findViewById(R.id.item_content);
-            linearLayout = (LinearLayout) view.findViewById(R.id.linear_layout);
-            linearLayout.setOnClickListener(onClickListener);
+
+            icon = (ImageView) view.findViewById(R.id.info_item_icon);
+            name = (TextView) view.findViewById(R.id.info_item_name);
+            index = (TextView) view.findViewById(R.id.info_item_index);
+            content = (TextView) view.findViewById(R.id.info_item_content);
+            time = (TextView) view.findViewById(R.id.info_item_time);
+            zan = (TextView) view.findViewById(R.id.info_item_zan);
         }
     }
 }

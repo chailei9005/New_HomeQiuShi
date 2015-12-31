@@ -2,7 +2,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="wrap_content">
+
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -24,46 +25,51 @@
 
     </LinearLayout>
 
+    <LinearLayout
+        android:id="@+id/linear_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
     <TextView
         android:id="@+id/item_content"
         android:textSize="20sp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
-
-    <RadioGroup
+    </LinearLayout>
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
 
-        <RadioButton
+        <ImageButton
             android:id="@+id/support"
-            android:layout_width="0dp"
-            android:layout_weight="1"
-            android:drawableTop="@drawable/shape_button"
-            android:button="@null"
-            android:layout_height="wrap_content" />
-        <RadioButton
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@mipmap/operation_support"
+            android:background="@null"/>
+        <ImageButton
             android:id="@+id/unsupport"
-            android:layout_width="0dp"
-            android:layout_weight="1"
-            android:drawableTop="@drawable/shape_unsupport"
-            android:button="@null"
-            android:layout_height="wrap_content" />
-        <RadioButton
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@mipmap/operation_unsupport"
+            android:background="@null"
+ />
+        <ImageButton
             android:id="@+id/comment"
-            android:layout_width="0dp"
-            android:layout_weight="1"
-            android:drawableTop="@drawable/shape_comment"
-            android:button="@null"
-            android:layout_height="wrap_content" />
-        <RadioButton
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@mipmap/operation_comments"
+            android:background="@null"
+ />
+        <ImageButton
             android:id="@+id/share"
-            android:layout_width="0dp"
-            android:layout_weight="1"
-            android:drawableTop="@drawable/shape_share"
-            android:button="@null"
-            android:layout_height="wrap_content" />
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@mipmap/operation_more"
+            android:background="@null"/>
 
-    </RadioGroup>
+    </LinearLayout>
+
 
 </LinearLayout>

@@ -12,43 +12,79 @@ public class Item {
     /**
      * count : 30
      * err : 0
-     * items : [{"format":"word","image":null,"published_at":1451360103,"tag":"","user":{"avatar_updated_at":1404863863,"last_visited_at":1390996170,"created_at":1390996170,"state":"bonded","email":"1282563353@qq.com","last_device":"android_2.7","role":"n","login":"天下第八百六十一帅","id":13865837,"icon":"nopic.jpg"},"image_size":null,"id":114464686,"votes":{"down":-131,"up":6043},"created_at":1451358753,"content":"本人小女子一枚，回家后，把内衣里的胸垫随便的丢在了桌上。老妈看见后就问我这是什么东西？我不屑的说：\u201c作为一个女人，居然连这都不知道！\u201d结果换来我妈一句：\u201c作为一个女人还用这玩意？！\u201d口气超鄙视！我瞬间觉得被我妈秒杀了!","state":"publish","comments_count":65,"allow_comment":true,"share_count":52,"type":"hot"},{"format":"word","image":null,"published_at":1451366102,"tag":"","user":{"avatar_updated_at":1436201057,"last_visited_at":1434245553,"created_at":1434245553,"state":"active","email":"","last_device":"ios_6.8.4","role":"n","login":"思孟","id":28956614,"icon":"20150706164417.jpg"},"image_size":null,"id":114465738,"votes":{"down":-87,"up":3572},"created_at":1451364016,"content":"女神：你平时都做些什么呀？\n我：我平时就看看书，打打飞机之类的。\n女神：啊？你怎么能做这样的事啊！\n我：开个玩笑，像我这种人怎么可能看书呢。","state":"publish","comments_count":33,"allow_comment":true,"share_count":64,"type":"hot"},{"format":"word","image":null,"published_at":1451364302,"tag":"","user":{"avatar_updated_at":1449272107,"last_visited_at":1444244210,"created_at":1444244210,"state":"active","email":"","last_device":"android_8.1.2","role":"n","login":"我不管！夸我！","id":30413146,"icon":"20151204233506.jpg"},"image_size":null,"id":114465242,"votes":{"down":-103,"up":3259},"created_at":1451361725,"content":"我们是新生 班主任也是大学毕业生 开学第一天 校长走到我们班门口 班级特别乱 就一脚踹开门 把最活跃的抽了俩耳光 然后让他出去站着 问我们班主任呢 我想说 被你叫出去得那个就是","state":"publish","comments_count":78,"allow_comment":true,"share_count":32,"type":"hot"},{"format":"word","image":null,"published_at":1451374501,"tag":"","user":{"avatar_updated_at":1447010513,"last_visited_at":1447006301,"created_at":1447006301,"state":"active","email":"","last_device":"android_8.3.2","role":"n","login":"我妈说我丑","id":30588635,"icon":"20151108192152.jpg"},"image_size":null,"id":114467348,"votes":{"down":-6,"up":235},"created_at":1451372538,"content":"[有几个坐过老式大二八单车呢？ 小时候，有一次去爷爷家，老爸骑着大二八单车带着我，刚开始我坐在前边大梁上，后来P股麻了，老爸就让我坐到单车后座上去了\u2026 一个多小时后到爷爷家，老爸把我忘记了，直接从后边把腿迈下来\u2026 我还是脸先着地的\u2026！！这就是我单身的原因\u2026\u2026","state":"publish","comments_count":3,"allow_comment":true,"share_count":1},{"format":"word","image":null,"published_at":1451373901,"tag":"","user":{"avatar_updated_at":1451399818,"last_visited_at":1451399817,"created_at":1451399817,"state":"active","email":"","last_device":"android_9.0.0","role":"n","login":"ボヰおぉ","id":30868245,"icon":"20151229143658.jpg"},"image_size":null,"id":114467123,"votes":{"down":-16,"up":426},"created_at":1451371338,"content":"中午去饭店吃饭，我\u201c老板娘，wifi密码多少？\u201d老板娘\u201c七个零\u201d半个小时我试了几百次都不对，我对老板娘说不对啊，老板娘\u201cqigeling\u201d（七个零），当时心中的的那个草泥马\u2026\u2026","state":"publish","comments_count":14,"allow_comment":true,"share_count":5},{"format":"word","image":null,"published_at":1451375401,"tag":"","user":{"avatar_updated_at":1410524258,"last_visited_at":0,"created_at":1297937375,"state":"pending","email":"tdxu_weihai@126.com","last_device":"","role":"n","login":"别约我，烦着呢！","id":184471,"icon":"20140912201740.jpg"},"image_size":null,"id":114467445,"votes":{"down":-8,"up":124},"created_at":1451373059,"content":"有一吃货同事，无论吃什么都吃的很快。标准割。。。一天又在一起吃饭，我们刚开始动筷子，他都已经吃完了。我就问他:吃那么快干嘛，有没有人跟你抢。他说:你没听过一个成语叫食不我待嘛，我怕吃慢了就没了。没了。了。","state":"publish","comments_count":1,"allow_comment":true,"share_count":0,"type":"fresh"},{"format":"word","image":null,"published_at":1451370902,"tag":"","user":{"avatar_updated_at":1450968866,"last_visited_at":1371556094,"created_at":1371556094,"state":"active","email":"","last_device":"android_2.5.0","role":"n","login":"蔷薇薇喵喵","id":9594583,"icon":"20151224145425.jpg"},"image_size":null,"id":114466729,"votes":{"down":-13,"up":453},"created_at":1451369001,"content":"我觉得现在碰瓷的老头老太太还不是很专业，应该守在酒店门口逮着喝酒的司机去碰，这样成功率将大大增高，不过运气不好可能会被撞shi，这样一来酒驾大大减少碰瓷的也会越来越少了","state":"publish","comments_count":8,"allow_comment":true,"share_count":2},{"format":"word","image":null,"published_at":1451371501,"tag":"","user":{"avatar_updated_at":1428699317,"last_visited_at":1381431540,"created_at":1381431540,"state":"bonded","email":"gujing1231@126.com","last_device":"ios_2.6.1","role":"n","login":"热酷到底的男人","id":11734584,"icon":"20150411045516.jpg"},"image_size":null,"id":114466641,"votes":{"down":-31,"up":1154},"created_at":1451368510,"content":"小时候有一阵子，楚留香风靡全校，那时我狂热地搜集扇子，每天练习如何刷地打开，再刷地合上，还有丢出去让它飞回来之类。伙伴们常以扇子对决，也坏的很快。终于，老妈拒绝再给我买。向奶奶投诉后，她说，别哭，我给你一把很厉害的。然后我在热烈期待中迎来了。。。一把蒲扇。当天做游戏时，楚留香们让我扮演济公！","state":"publish","comments_count":17,"allow_comment":true,"share_count":5,"type":"hot"},{"format":"word","image":null,"published_at":1451374502,"tag":"","user":{"avatar_updated_at":0,"last_visited_at":1442935293,"created_at":1442935293,"state":"active","email":"","last_device":"android_8.1.1","role":"n","login":"我的果肉呢","id":30328874,"icon":"20150922161203.jpg"},"image_size":null,"id":114467321,"votes":{"down":-9,"up":246},"created_at":1451372377,"content":"今天上班快迟到了，边跑边吃早餐，刚好赶上末班电梯，我上最高层，眼看人都走完了，我可以好好的放一波氨气了～哇！别提多爽！出电梯口的时候发现后面蹲着个妹子～～～蹲着的妹子！","state":"publish","comments_count":3,"allow_comment":true,"share_count":2},{"format":"word","image":null,"published_at":1451368502,"tag":"","user":{"avatar_updated_at":1443220728,"last_visited_at":1374278570,"created_at":1374278570,"state":"active","email":"","last_device":"android_2.5.2","role":"n","login":".刘累累","id":10120438,"icon":"20150925223847.jpg"},"image_size":null,"id":114465699,"votes":{"down":-16,"up":586},"created_at":1451363864,"content":"原谅我的不纯洁！去理发店洗头，洗完后女发型师叫:洗好了我给你吹！我笑了，然后她笑了，最后店里人都笑了\u2026\u2026","state":"publish","comments_count":12,"allow_comment":true,"share_count":2},{"format":"word","image":null,"published_at":1451366402,"tag":"","user":{"avatar_updated_at":1444068877,"last_visited_at":1442150802,"created_at":1442150802,"state":"active","email":"","last_device":"android_8.0.2","role":"n","login":"磨枪嚯嚯向女郎","id":30276868,"icon":"nopic.jpg"},"image_size":null,"id":114465592,"votes":{"down":-26,"up":1016},"created_at":1451363394,"content":"以前在公司，有一次厕所刚被清理完，我进入正在解手，一个同事进来突然说到：\u201c好香呀\u201d这时只听从格挡传来一个低沉的声音\u201c想吃吗？\u201d哎哎哎，有话好好说别踹门呀","state":"publish","comments_count":15,"allow_comment":true,"share_count":9},{"format":"word","image":null,"published_at":1451365801,"tag":"","user":null,"image_size":null,"id":114465668,"votes":{"down":-35,"up":1271},"created_at":1451363707,"content":"为什么单身？多数是因为喜欢你的你不喜欢，你喜欢的人家不喜欢你。想要将就，却发现将就更难受。眼看就要这样耗着耗着就老了","state":"publish","comments_count":48,"allow_comment":true,"share_count":29,"type":"hot"},{"format":"word","image":null,"published_at":1451365501,"tag":"","user":{"avatar_updated_at":1428374769,"last_visited_at":1428374768,"created_at":1428374768,"state":"active","email":"","last_device":"android_6.5.0","role":"n","login":"隔壁老王在窗边","id":27377128,"icon":"20150407104609.jpg"},"image_size":null,"id":114465165,"votes":{"down":-80,"up":2903},"created_at":1451361282,"content":"刚刚坐公交车，一中年人好像是没刷上卡，司机让重刷\n中年人不刷，然后吵了几句。。\n这时，有个老人开始说那中年人说：\n\u201c别特麽跟司机吵，一车人安全你负责得起？你个贱人，贱人...\u201d\n中年人被两句贱人骂的火了，站起来了\n老人一看，华丽丽来了一句：\u201c你准备好钱再打，没钱就别打...\u201d","state":"publish","comments_count":54,"allow_comment":true,"share_count":23,"type":"hot"},{"format":"word","image":null,"published_at":1451375402,"tag":"","user":{"avatar_updated_at":1447183401,"last_visited_at":0,"created_at":1318769566,"state":"bonded","email":"411088112@qq.com","last_device":"","role":"n","login":"杉有木兮","id":298159,"icon":"20151110192320.jpg"},"image_size":null,"id":114467250,"votes":{"down":-7,"up":136},"created_at":1451371982,"content":"发个小时候的。。。只看不发掉人品。。。吵着闹着让爸爸给我买了个灯笼（竹编的那种，外面裹着一层红纸），点上蜡烛开开心心的打着灯笼去跟小伙伴们炫耀，路上被大人调戏了:\u201c快看，你灯笼底下有糖鸡屎！\u201d然后我信了，然后就哭着跑回家了。。。。。现在想来，那时候的自己真傻，居然不会骂人。","state":"publish","comments_count":6,"allow_comment":true,"share_count":0,"type":"fresh"},{"format":"word","image":null,"published_at":1451372101,"tag":"","user":{"avatar_updated_at":1451071565,"last_visited_at":1427539579,"created_at":1427539579,"state":"active","email":"","last_device":"android_6.4.0","role":"n","login":"我要每周都换名字","id":27050220,"icon":"20151225192604.jpg"},"image_size":null,"id":114466422,"votes":{"down":-31,"up":641},"created_at":1451367266,"content":"某某：我再也受不了我那吃货女友了，她把我那个小核桃的手链，敲碎吃了\u2026\u2026\n刚在群里看见的","state":"publish","comments_count":13,"allow_comment":true,"share_count":4},{"format":"word","image":null,"published_at":1451373304,"tag":"","user":null,"image_size":null,"id":114467052,"votes":{"down":-8,"up":236},"created_at":1451370935,"content":"我的哥哥是一个不擅表达的人。每次我把他惹恼的时候，他只是摇摇头，一言不发地把我拖到公路边上的计划生育宣传牌前。红色背景上的五个大字熟悉又刺眼。\u201c念啊\u201d\u201c只生一个好\u2026","state":"publish","comments_count":4,"allow_comment":true,"share_count":2},{"format":"word","image":null,"published_at":1451371803,"tag":"","user":{"avatar_updated_at":1423046938,"last_visited_at":1423046937,"created_at":1423046937,"state":"active","email":"","last_device":"web","role":"n","login":"疯狂为你醉","id":25349226,"icon":"20150204184857.jpg"},"image_size":null,"id":114466685,"votes":{"down":-14,"up":336},"created_at":1451368777,"content":"一大学男同学参加运动会，穿了条紧身裤子参加4000米长跑，前两千米瑶瑶领先其他对手，结果跑到第三千米时忽然跑不动了，只能提前退出比赛，赛后问他怎么回事，他说TMD裤子太紧给磨射了！射了！","state":"publish","comments_count":4,"allow_comment":true,"share_count":6},{"format":"word","image":null,"published_at":1451366402,"tag":"","user":{"avatar_updated_at":1397743489,"last_visited_at":1348301044,"created_at":1348301044,"state":"bonded","email":"765282098@qq.com","last_device":"web","role":"n","login":"漠小莫","id":3722563,"icon":"20140417220448.jpg"},"image_size":null,"id":114465568,"votes":{"down":-14,"up":528},"created_at":1451363303,"content":"作死的人越来越多了，就今天，前面一车，不打转弯灯在禁止路段忽然违规转弯，我骑着我的小毛驴跟在后面，差点儿就撞上去了，连刹几次急停在一边，那货居然一点儿也没有愧疚之心，骂了一句\u201c骑个电动车冷不死你，撞死你。\u201d我顿时就火了刚准备会骂，只听砰的一声，那货转弯后追尾别人了。原谅我一生放荡不羁，在前面笑哭了。","state":"publish","comments_count":5,"allow_comment":true,"share_count":0},{"format":"word","image":null,"published_at":1451366403,"tag":"","user":{"avatar_updated_at":1449278157,"last_visited_at":1449278073,"created_at":1449278073,"state":"active","email":"","last_device":"ios_8.3.8","role":"n","login":"牛皮癣白癜风","id":30730677,"icon":"20151205011557.jpg"},"image_size":null,"id":114464882,"votes":{"down":-41,"up":1187},"created_at":1451359716,"content":"那天在网上看到一条神回复，楼主抛出一个问题：请说出自己最常丢的三样东西。下面评论中有一人回答：脸，爸妈的脸，老师的脸。","state":"publish","comments_count":17,"allow_comment":true,"share_count":19,"type":"hot"},{"format":"word","image":null,"published_at":1451366102,"tag":"","user":{"avatar_updated_at":1434455146,"last_visited_at":1430186751,"created_at":1430186751,"state":"active","email":"","last_device":"android_6.6.0","role":"n","login":"(糗名昭著)~魅儿","id":27990908,"icon":"20150616194545.jpg"},"image_size":null,"id":114465584,"votes":{"down":-48,"up":1552},"created_at":1451363363,"content":"闺蜜脚踝有点骨折，打个石膏在家中修养了两周了\u2026\u2026今天给我打电话说石膏紧的很不舒服，让我陪她去复查\u2026\u2026\n\n在医院见到了当时给她处理的医生，闺蜜就说了：医生你看我这石膏\u2026\u2026最近这四五天越来越紧，是不是打得不好。。\n\n医生检查后看看她：老妹啊！我手艺没问题\u2026\u2026问题是你吃胖了～重新打一个石膏吧！！\n\n闺蜜\u2026\u2026\u2026","state":"publish","comments_count":22,"allow_comment":true,"share_count":4,"type":"hot"},{"format":"word","image":null,"published_at":1451370302,"tag":"","user":{"avatar_updated_at":1434455146,"last_visited_at":1430186751,"created_at":1430186751,"state":"active","email":"","last_device":"android_6.6.0","role":"n","login":"(糗名昭著)~魅儿","id":27990908,"icon":"20150616194545.jpg"},"image_size":null,"id":114466439,"votes":{"down":-16,"up":406},"created_at":1451367350,"content":"有一天突然心情不好，就给妈妈发了个信息: 妈妈妈妈，去给我买个生日蛋糕吃吧，心情超差！！！吃了心情就会变好\n\n然后下班后就看到满桌子好吃的，中间放了一个大蛋糕，老妈说～生日快乐！我说还不到我生日啊，老妈说: 不是心情超差么？为了让你开心，提前过好了\n\n我\u2026\u2026","state":"publish","comments_count":14,"allow_comment":true,"share_count":0},{"format":"word","image":null,"published_at":1451383203,"tag":"","user":{"avatar_updated_at":1451397064,"last_visited_at":1451397063,"created_at":1451397063,"state":"active","email":"","last_device":"android_9.0.0","role":"n","login":"永寐","id":30868055,"icon":"20151229135103.jpg"},"image_size":null,"id":114467742,"votes":{"down":-9,"up":37},"created_at":1451374631,"content":"我的本本开机的\u201c正在启动windows7\u201d改成了\u201c系统存在风险，即将爆炸\u201d之后\n宿舍一小白玩我电脑看到了赶紧关机拔电源卸电池\u2026\u2026然后给我打电话问能不能保修\u2026\u2026\n我们整个宿舍都斯巴达了","state":"publish","comments_count":0,"allow_comment":true,"share_count":0,"type":"fresh"},{"format":"word","image":null,"published_at":1451373304,"tag":"","user":{"avatar_updated_at":1451042445,"last_visited_at":1412955990,"created_at":1412955990,"state":"active","email":"","last_device":"android_3.4.0","role":"n","login":"爱玛，泥煤啊","id":21576079,"icon":"20151225112045.jpg"},"image_size":null,"id":114467149,"votes":{"down":-8,"up":319},"created_at":1451371438,"content":"中午吃完饭，老公在厕所大号。我在厨房憋着一泡尿洗碗，谁知打了一个喷嚏我竟然尿裤子了\u2026\u2026尼玛，尿裤子\u2026\u2026","state":"publish","comments_count":17,"allow_comment":true,"share_count":0},{"format":"word","image":null,"published_at":1451364002,"tag":"","user":{"avatar_updated_at":1450633581,"last_visited_at":1424654113,"created_at":1424654113,"state":"active","email":"","last_device":"android_6.3.0","role":"n","login":"昭昭白玉堂","id":25886566,"icon":"20151220174620.jpg"},"image_size":null,"id":114465120,"votes":{"down":-62,"up":2287},"created_at":1451360972,"content":"工友老徐是个话痨，肢体语言十分丰富。就刚刚，大家围一张桌子吃饭，老徐依然边吃饭边讲故事。讲到情至浓处，手臂一划拉\u2026\u2026噢豁，一碗米饭华丽丽的倒在他裤裆上！\n 旁边工友神补刀:\u201c叫你光讲话不吃饭，连你小弟弟都看不过去了，帮你吃了！\u201d\n 众工友狂笑\u2026\u2026","state":"publish","comments_count":16,"allow_comment":true,"share_count":3,"type":"hot"},{"format":"word","image":null,"published_at":1451364003,"tag":"","user":{"avatar_updated_at":1393953800,"last_visited_at":1387401942,"created_at":1387401942,"state":"active","email":"","last_device":"android_2.6.4","role":"n","login":"蔣委员长","id":12979900,"icon":"20140305011256.jpg"},"image_size":null,"id":114464713,"votes":{"down":-90,"up":2710},"created_at":1451358901,"content":"七岁时我妈给我买了个滑板。才玩了两三个星期，有个远方亲戚的六岁熊孩子看上了，抱着死活不肯放。他妈一直说送给他呗，难得这么喜欢，念叨许久，我妈笑不做声，半晌说了句我把它擦干净。小孩才肯松手。我妈拿去里屋，空手走出来。他妈问，滑板呢？我妈说，我儿子也难得喜欢，你们自己买吧。\"","state":"publish","comments_count":95,"allow_comment":true,"share_count":14,"type":"hot"},{"format":"word","image":null,"published_at":1451364303,"tag":"","user":{"avatar_updated_at":1450828284,"last_visited_at":1352723197,"created_at":1352723197,"state":"bonded","email":"1432663777@qq.com","last_device":"android_2.1.1","role":"n","login":"哥，不是传说！","id":4565737,"icon":"20151222235123.jpg"},"image_size":null,"id":114465405,"votes":{"down":-36,"up":1087},"created_at":1451362613,"content":"老婆睡觉爱挤人，\n\n最近可能是咽炎犯了还有点打呼噜，\n\n于是早上５点当老婆睁开眼就\n\n惊悚的看到我坐在椅子上，问我为啥不睡觉，\n\n我：嗯，没事，你再睡会吧，\n\n我让你开着摩托车追了一夜有点累了，\n\n起来休息一下！","state":"publish","comments_count":14,"allow_comment":true,"share_count":21,"type":"hot"},{"format":"word","image":null,"published_at":1451376902,"tag":"","user":{"avatar_updated_at":1451320463,"last_visited_at":1451320454,"created_at":1451320454,"state":"active","email":"","last_device":"android_9.0.0","role":"n","login":"江暖阳","id":30863227,"icon":"20151228163414.jpg"},"image_size":null,"id":114467921,"votes":{"down":-4,"up":143},"created_at":1451375518,"content":"你知道我把班主任电瓶车油门拧到极致用502沾起来班主任刚把钥匙插进去撞墙上时我被打的多惨吗","state":"publish","comments_count":5,"allow_comment":true,"share_count":0,"type":"fresh"},{"format":"word","image":null,"published_at":1451365802,"tag":"","user":{"avatar_updated_at":1449874173,"last_visited_at":1449517747,"created_at":1449517747,"state":"active","email":"","last_device":"ios_8.3.9","role":"n","login":"陈奕迅我爱你","id":30745359,"icon":"20151211224932.jpg"},"image_size":null,"id":114465348,"votes":{"down":-20,"up":649},"created_at":1451362315,"content":"大学生在讨论八零九零后拍照用什么姿势，甲说八零后喜欢剪刀手，九零后喜欢卖萌嘟嘴。同学乙对此深表赞同，突然问道坐后排的一学姐，你喜欢什么姿势，学姐正在低头玩手机，抬起头羞红了脸说道，我喜欢在下面。","state":"publish","comments_count":9,"allow_comment":true,"share_count":5},{"format":"word","image":null,"published_at":1451374502,"tag":"","user":{"avatar_updated_at":1450601756,"last_visited_at":1378213948,"created_at":1378213948,"state":"active","email":"","last_device":"ios_2.6","role":"n","login":"凯歌改名大美丽","id":11065042,"icon":"20151220085556.jpg"},"image_size":null,"id":114467360,"votes":{"down":-6,"up":258},"created_at":1451372620,"content":"我们这边结婚都要闹新娘，结婚当晚，我问老公，为什么今天结婚没人闹我？老公说，我提前给他们说好了，谁闹谁领走，谁领走。领走。。\n那一个都没闹的是几个意思。。。","state":"publish","comments_count":6,"allow_comment":true,"share_count":4},{"format":"word","image":null,"published_at":1451381104,"tag":"","user":{"avatar_updated_at":1442738952,"last_visited_at":1413257257,"created_at":1413257257,"state":"bonded","email":"378491459@qq.com","last_device":"android_3.4.0","role":"n","login":"诺基亚手机","id":21690793,"icon":"20150920084911.jpg"},"image_size":null,"id":114468262,"votes":{"down":-8,"up":66},"created_at":1451377335,"content":"周末好不容易越约女朋友去爬山，看见有条小路以为可以上山，走到后面就看见一座坟，连路都没有了，带着女朋友在那片山满地找路，好不容易下来了，被管理员抓住，以为我们是逃票的，从那过后，我就是路痴了","state":"publish","comments_count":1,"allow_comment":true,"share_count":0,"type":"fresh"}]
+     * items : [{"format":"word","image":null,"published_at":1451439901,"tag":"","user":{"avatar_updated_at":1355230846,"last_visited_at":1355230584,"created_at":1355230584,"state":"active","email":" ","last_device":"android_2.1.1","role":"n","login":"和尚爱飘柔","id":5036481,"icon":""},"image_size":null,"id":114476880,"votes":{"down":-82,"up":2983},"created_at":1451437882,"content":"昨天晚上，我躺在床上玩手机，老婆在一边和我讨论充气娃娃，问我男的是不是都喜欢充气娃娃，充气娃娃怎么用，会舒服吗？！！唠叨了半天，最后娇羞的对我说，老公你就把我当充气娃娃吧。我搂过媳妇看了一下说：我找找哪里能放气！！！","state":"publish","comments_count":31,"allow_comment":true,"share_count":16,"type":"hot"},{"format":"word","image":null,"published_at":1451436903,"tag":"","user":{"avatar_updated_at":1449726567,"last_visited_at":1393981014,"created_at":1393981014,"state":"active","email":"","last_device":"android_2.7","role":"n","login":"(糗名昭著)~板砖","id":14533812,"icon":"20151210054840.jpg"},"image_size":null,"id":114476430,"votes":{"down":-84,"up":2581},"created_at":1451435270,"content":"聪明的把攒了半年的私房钱。藏在了老婆最不喜欢的一双长筒靴内\u2026\n结果我找不到了，打电话问她，她说她不喜欢送她妹妹了。\n我想说，你最讨厌我，为什么不送人？","state":"publish","comments_count":23,"allow_comment":true,"share_count":8,"type":"hot"},{"format":"word","image":null,"published_at":1451440204,"tag":"","user":{"avatar_updated_at":1451415945,"last_visited_at":1449693524,"created_at":1449693524,"state":"suspended","email":"","last_device":"ios_8.0.15","role":"n","login":"寻\u201c爱\u201d做","id":30756609,"icon":"20151229190545.jpg"},"image_size":null,"id":114476945,"votes":{"down":-83,"up":2212},"created_at":1451438243,"content":"昨晚爸妈朋友喝醉了和我说:侄女啊侄女 叔叔和你说 以后要看好老公 每个男人都会出轨 经不起女人的诱惑 我说:那你出轨过？ 他说:我敢作敢当 有！就是有！他老婆在旁边一句话都没说！ 然后我今天一天都没见过这个叔叔了 也不知道他怎么样了...","state":"publish","comments_count":20,"allow_comment":true,"share_count":5,"type":"hot"},{"format":"word","image":null,"published_at":1451444103,"tag":"","user":{"avatar_updated_at":1445635837,"last_visited_at":1411999553,"created_at":1411999553,"state":"active","email":"","last_device":"ios_3.3","role":"n","login":"锻炼肌肉，防止挨揍.","id":21178357,"icon":"20151023213036.jpg"},"image_size":null,"id":114477367,"votes":{"down":-38,"up":1228},"created_at":1451440433,"content":"在宿舍，人手一个充电宝，然而总有一位是特别的。割了吧！那位没有充电宝的同学说：是时候买个充电宝了，话说你们都有，就用你们的就好了。这时，另一个声音悠悠的传来：我们都单身，就你有女朋友，不然把你女朋友借我用用？","state":"publish","comments_count":7,"allow_comment":true,"share_count":3,"type":"hot"},{"format":"word","image":null,"published_at":1451446518,"tag":"","user":{"avatar_updated_at":1410005251,"last_visited_at":1393931225,"created_at":1393931225,"state":"active","email":"","last_device":"ios_2.7","role":"n","login":"^带我装逼带我飞*","id":14523094,"icon":"20140906200729.jpg"},"image_size":null,"id":114477806,"votes":{"down":-17,"up":418},"created_at":1451443110,"content":"本人厨师学徒一枚，不割，昨天有客人点了个干妈鸡珍，大师傅逗比的来了句干妈不在干爹炒的行不，瞬间笑尿！","state":"publish","comments_count":3,"allow_comment":true,"share_count":0},{"format":"word","image":null,"published_at":1451454302,"tag":"","user":{"avatar_updated_at":0,"last_visited_at":1332841756,"created_at":1332841756,"state":"active","email":" ","last_device":"android_1.1","role":"n","login":"蒙古人","id":1160734,"icon":""},"image_size":null,"id":114479223,"votes":{"down":-8,"up":94},"created_at":1451450883,"content":"谁TMD说喝了洗洁精不能喝水会吐泡泡。背景，我破车玻璃水没了，用洗洁精兑水装娃哈哈纯净水瓶里加了，还剩半瓶扔副驾驶座。出去办事，回来口渴。看见副驾驶座的水瓶，打开，仰头，张嘴。吞下。一气呵成。辣辣的。怪怪的味道。赶紧后备箱里拿水喝。现在正狂灌水中。谁说会吐泡泡？一个也没有","state":"publish","comments_count":1,"allow_comment":true,"share_count":0,"type":"fresh"},{"format":"word","image":null,"published_at":1451450705,"tag":"","user":{"avatar_updated_at":1434255110,"last_visited_at":1420121121,"created_at":1420121121,"state":"active","email":"","last_device":"android_5.0.0","role":"n","login":"(糗名昭著)~光腚","id":24373952,"icon":"20150614121149.jpg"},"image_size":null,"id":114478692,"votes":{"down":-9,"up":206},"created_at":1451448062,"content":"lz小时候脾气犟；刚上小学那年，总有高年级的学生在厕所里欺负我们，不让我们撒尿\u2026\u2026\n\n这天我跑进厕所，被俩五年级小子喝住:\u201c不许尿，尿出来我就揍你。\u201d当时我脾气就上来了，不让我尿，我非得尿~裤子都没脱，\u201c哗~哗~\u201d的尿！\n后来哭着像老师汇报，老师把这俩小子一顿胖揍\u2026\u2026然后我顶着零下30多度的严寒，穿着湿漉漉的棉裤走了七里山路回家了！！！！\n\n再开学后，我改上女厕所，没遇到过类似的遭遇！！！","state":"publish","comments_count":19,"allow_comment":true,"share_count":2,"type":"fresh"},{"format":"word","image":null,"published_at":1451449501,"tag":"","user":{"avatar_updated_at":1451149380,"last_visited_at":1451149380,"created_at":1451149380,"state":"active","email":"","last_device":"ios_8.2.15","role":"n","login":"韩流高能预警","id":30851501,"icon":"20151226170300.jpg"},"image_size":null,"id":114478518,"votes":{"down":-18,"up":354},"created_at":1451447117,"content":"昨天看一场音乐会。台上钢琴家在表演，后面有个5岁以内的小孩儿哭的撕心裂肺全场都听的清楚，嘴里嘟囔着，我不去，我就不去，你干嘛为难我，你别管我\n\n待钢琴曲结束，有个宝贝上台献花，我去。。。这不就是那个哭的撕心裂肺的娃么\u2026\u2026和着是不想去献花啊\u2026\u2026白哭半天了\u2026\u2026还得上去。。。","state":"publish","comments_count":2,"allow_comment":true,"share_count":1},{"format":"word","image":null,"published_at":1451448303,"tag":"","user":{"avatar_updated_at":1443915306,"last_visited_at":1420789590,"created_at":1420789590,"state":"active","email":"","last_device":"android_5.0.0","role":"n","login":"帅气的流氓兔","id":24631255,"icon":"20151003233505.jpg"},"image_size":null,"id":114478089,"votes":{"down":-30,"up":557},"created_at":1451444565,"content":"昨天去网吧打撸啊撸，队友太气人了。我激动的说了句:真是日了狗！ 旁边一妹子带着一直泰迪，只听她对泰迪说了句:小乖过来，那边不安全。。。。我永远忘记不了那天在网吧回荡的笑声！！！！！","state":"publish","comments_count":11,"allow_comment":true,"share_count":7},{"format":"word","image":null,"published_at":1451445902,"tag":"","user":{"avatar_updated_at":1450176881,"last_visited_at":1396409239,"created_at":1396409239,"state":"active","email":"","last_device":"ios_2.7.1","role":"n","login":"月溪竹","id":15249064,"icon":"20151215105440.jpg"},"image_size":null,"id":114477809,"votes":{"down":-18,"up":463},"created_at":1451443129,"content":"小时候妈妈去农贸市场卖榛子由于无人看管把我带上了，城管来巡查，我妈妈拿着榛子就跑\u2026\u2026直到傍晚市场要下班了妈妈才回来接我，城管叔叔说你再不回来我可领回家了！这就是我可爱的亲妈。","state":"publish","comments_count":9,"allow_comment":true,"share_count":1},{"format":"word","image":null,"published_at":1451441107,"tag":"","user":{"avatar_updated_at":1444845160,"last_visited_at":1424436790,"created_at":1424436790,"state":"active","email":"","last_device":"android_6.3.0","role":"n","login":"蒙面超人付小旭","id":25820212,"icon":"20151014175239.jpg"},"image_size":null,"id":114477060,"votes":{"down":-68,"up":2137},"created_at":1451438793,"content":"听媳妇说的，媳妇在小区门口中百便利收银员，昨晚上班时店里来了一位少妇，身穿纯白毛绒外套估计是皮草，我没亲眼看见，当时店里的保安大爷明显紧张了一下，等会少妇进店里面了，大爷跟我媳妇说，艾玛，吓死我了，我还以为进来个羊，刚要往外撵，看见羊怎么站起来了呢！吓死我了。","state":"publish","comments_count":21,"allow_comment":true,"share_count":21,"type":"hot"},{"format":"word","image":null,"published_at":1451448303,"tag":"","user":{"avatar_updated_at":1447627109,"last_visited_at":1401969972,"created_at":1401969972,"state":"active","email":"","last_device":"android_2.8.8","role":"n","login":"我是蓝小胖","id":16712895,"icon":"20151115223829.jpg"},"image_size":null,"id":114478197,"votes":{"down":-15,"up":342},"created_at":1451445120,"content":"你喜欢什么样的女生啊？女神问\n我喜欢处女 啪！流氓！ 硬生生把座字给我删飞了！","state":"publish","comments_count":6,"allow_comment":true,"share_count":2},{"format":"word","image":null,"published_at":1451444702,"tag":"","user":{"avatar_updated_at":1450899153,"last_visited_at":1450899152,"created_at":1450899152,"state":"active","email":"","last_device":"android_9.0.0","role":"n","login":"爱咋咋咋整","id":30834598,"icon":"20151223193232.jpg"},"image_size":null,"id":114476699,"votes":{"down":-31,"up":996},"created_at":1451436909,"content":"女儿三岁，有次我在lol，玩的兴起，递来一支烟，我不抽，硬塞嘴里，递来火机，非让点上，点上以后女儿一溜烟跑客厅大喊：麻麻，俺爸又吸烟了。。。。。。。真是亲女儿。。。","state":"publish","comments_count":12,"allow_comment":true,"share_count":4},{"format":"word","image":null,"published_at":1451456401,"tag":"","user":{"avatar_updated_at":1442616269,"last_visited_at":1411190581,"created_at":1411190581,"state":"active","email":"","last_device":"android_3.0.4","role":"n","login":"爱情不是我的菜","id":20911929,"icon":"20150918224428.jpg"},"image_size":null,"id":114479438,"votes":{"down":-8,"up":72},"created_at":1451451973,"content":"今天路过幼儿园门口，刚好看到一位开着奔驰s600的学生家长，他走下车打开车门，我正想看一下这个小富二代，就听见他爸说：卧槽，忘记带孩子了！\n.............................................\n\n昨天公司开会，领导把关于公司未来的计划打算都讲了一遍，我觉得有些不妥，便开口提出了领导的错误所在。领导拍手叫好，说都应该向我学习，勇于提出领导的错误，这样才能有助于公司的发展，我很开心。然后，第二天因为上班穿运动鞋被开除了。。。\n\u2026\u2026\u2026\"转","state":"publish","comments_count":1,"allow_comment":true,"share_count":0,"type":"fresh"},{"format":"word","image":null,"published_at":1451444102,"tag":"","user":{"avatar_updated_at":1449417491,"last_visited_at":1449417491,"created_at":1449417491,"state":"active","email":"","last_device":"android_8.3.2","role":"n","login":"〃凉初","id":30738702,"icon":"20151206155811.jpg"},"image_size":null,"id":114477535,"votes":{"down":-36,"up":876},"created_at":1451441429,"content":"早上满怀期盼去公司应聘，下公交的时候发现挎包被割破了，我大惊连忙翻看，发现毕业证里夹了一张纸条，写着：\u201c找工作不容易，你这证做的也忒假了，办证我专业，这是我QQ，有需要联系我。另，你包里那两百块钱我先收了，算是定金。","state":"publish","comments_count":14,"allow_comment":true,"share_count":0},{"format":"word","image":null,"published_at":1451440205,"tag":"","user":{"avatar_updated_at":1451415945,"last_visited_at":1449693524,"created_at":1449693524,"state":"suspended","email":"","last_device":"ios_8.0.15","role":"n","login":"寻\u201c爱\u201d做","id":30756609,"icon":"20151229190545.jpg"},"image_size":null,"id":114476950,"votes":{"down":-63,"up":2110},"created_at":1451438271,"content":"昨天下楼，遇一妈妈带着3－4岁小女孩，一见电梯门开就问好。\u201c叔叔好！\u201d\u201c阿姨好！\u201d\u201c小姐姐好！\u201d\u201c阿姨好！\u201d\u201c小狗狗好！\u201d\u201c奶奶好！\u201d\u201c小推车，你好！\u201d把大伙乐内伤了。","state":"publish","comments_count":23,"allow_comment":true,"share_count":3,"type":"hot"},{"format":"word","image":null,"published_at":1451444102,"tag":"","user":{"avatar_updated_at":1450879282,"last_visited_at":1450879282,"created_at":1450879282,"state":"active","email":"","last_device":"android_9.0.0","role":"n","login":"非人类12","id":30832679,"icon":"20151223140122.jpg"},"image_size":null,"id":114477595,"votes":{"down":-15,"up":439},"created_at":1451441766,"content":"老板二十多岁，子承父业的那种，每天到中午才来上班，就刚刚，他爸把电话打店里头了，我接的，直接就问他人呢，我说没来，然后电话就挂了，电话刚挂老板打我手机上了，问刚刚他爸是不是打电话了，问我咋说的，我说他没来，电话又挂了，我现在在想今天我是不是要请假呀？","state":"publish","comments_count":5,"allow_comment":true,"share_count":0},{"format":"word","image":null,"published_at":1451441107,"tag":"","user":{"avatar_updated_at":1418537946,"last_visited_at":1418537945,"created_at":1418537945,"state":"active","email":"","last_device":"android_4.0.0","role":"n","login":"生死看淡不服就幹","id":23773441,"icon":"20141214141905.jpg"},"image_size":null,"id":114476560,"votes":{"down":-25,"up":742},"created_at":1451436011,"content":"男:你为什么要跟我分手 我辣么爱你 我对你百般忍让 在床上都舍不得用力 女:这就是你阳痿的理由？","state":"publish","comments_count":6,"allow_comment":true,"share_count":6},{"format":"word","image":null,"published_at":1451445301,"tag":"","user":{"avatar_updated_at":1444073033,"last_visited_at":1428246944,"created_at":1428246944,"state":"active","email":"","last_device":"ios_6.4.2","role":"n","login":"于绝崖","id":27332736,"icon":"20151005192352.jpg"},"image_size":null,"id":114477881,"votes":{"down":-28,"up":578},"created_at":1451443546,"content":"今天上班不小心把领导的杯子摔碎了，心想:完了\u2026完了\u2026这下又要被炒鱿鱼了\u2026\n恰巧领导刚好进来，他看着地上的碎片，然后一副不可思议的望着我:你\u2026你\u2026\n我不急不慢的说:领导，这杯子是我摔得，您先别急，听我慢慢说，我刚才收拾桌子时，发现这杯子太烫手了，我觉得这种杯子不安全，要是烫了您，那可就不好了\u2026\n我看到领导脸色慢慢变好，我正在为我的机智感到自豪时，领导大骂一声:这特么是老子的限量版笔筒\u2026","state":"publish","comments_count":4,"allow_comment":true,"share_count":2},{"format":"word","image":null,"published_at":1451444102,"tag":"","user":{"avatar_updated_at":1421588580,"last_visited_at":1411172268,"created_at":1411172268,"state":"active","email":"","last_device":"android_3.3.1","role":"n","login":"陈家大少_","id":20903997,"icon":"20150118214300.jpg"},"image_size":null,"id":114477452,"votes":{"down":-33,"up":756},"created_at":1451440850,"content":"那个说喝过酒之后开车，看到交警再喝两口的你过来，我保证不打死你。妨碍交通和妨碍交通执法，半个月已经过去了，不说了，我要收拾东西回去了","state":"publish","comments_count":8,"allow_comment":true,"share_count":0},{"format":"word","image":null,"published_at":1451451903,"tag":"","user":{"avatar_updated_at":1451413902,"last_visited_at":1410928448,"created_at":1410928448,"state":"active","email":"","last_device":"android_3.0.3","role":"n","login":"昵称被抢了啊哟喂","id":20791139,"icon":"20151229183141.jpg"},"image_size":null,"id":114479079,"votes":{"down":-4,"up":151},"created_at":1451450200,"content":"又是一年相亲季，这不 二姨来电话了：人家姑娘已经等着了 你赶紧的，没办法我得去呀 刚放下电话我舅妈又打来了：人家已经在路上了，说好了的 可不能迟到啊。。到了二姨那里和那女孩也没说上两句话，看她时不时的看看表 我想她也赶时间吧 就相互留了联系方式奔我舅妈去了、见到我舅妈还没来得及坐下那女孩也到了，我转过头一看 居然是刚见过的她，我们对视了一秒 然后各自尴尬的离开了","state":"publish","comments_count":8,"allow_comment":true,"share_count":0,"type":"fresh"},{"format":"word","image":null,"published_at":1451457902,"tag":"","user":{"avatar_updated_at":1434455146,"last_visited_at":1430186751,"created_at":1430186751,"state":"active","email":"","last_device":"android_6.6.0","role":"n","login":"(糗名昭著)~魅儿","id":27990908,"icon":"20150616194545.jpg"},"image_size":null,"id":114479609,"votes":{"down":-3,"up":71},"created_at":1451452840,"content":"小时候，我们几个小伙伴一起玩过家家，我做皇～帝，可以娶四个老婆，其中有个大我几天的哥哥他不愿意嫁给我，我就指挥那三个小伙伴去恐吓他，可是他一点都不害怕，很张扬的喊着不玩了，要回家，最后还是我亲自出马，他才屈服的\u2026\u2026\n\n我答应娶他后到他家睡觉，他这才答应做我的第四个老婆","state":"publish","comments_count":6,"allow_comment":true,"share_count":0,"type":"fresh"},{"format":"word","image":null,"published_at":1451451301,"tag":"","user":{"avatar_updated_at":1451469217,"last_visited_at":1451469217,"created_at":1451469217,"state":"active","email":"","last_device":"android_8.4.0","role":"n","login":".中国灰灰灰","id":30872705,"icon":"20151230095337.jpg"},"image_size":null,"id":114478796,"votes":{"down":-6,"up":174},"created_at":1451448701,"content":"白雪公主终于逃出了王宫，来到了一片深林，看到了一个房子，推开门，看到了七张小床，就问小人们，你们就是我命中的七个小矮人吧，小人们回答:对不起，你找错地方了，我们是葫芦娃","state":"publish","comments_count":4,"allow_comment":true,"share_count":4,"type":"fresh"},{"format":"word","image":null,"published_at":1451440205,"tag":"","user":{"avatar_updated_at":1435368018,"last_visited_at":1402114662,"created_at":1402114662,"state":"bonded","email":"2anfeng@163.com","last_device":"ios_2.7.5","role":"n","login":"王八与蛋","id":16749385,"icon":"20150627012018.jpg"},"image_size":null,"id":114477057,"votes":{"down":-69,"up":1862},"created_at":1451438783,"content":"朋友最近离婚了，其实他想挽回，但是他老婆态度冷淡，我知道他老婆有洁癖，支招让他借口回去拿东西，在卫生间里拉了个大的，不冲！嗯，他老婆的态度果然180度的转变，拿着菜刀追着朋友满街跑\u2026\u2026","state":"publish","comments_count":18,"allow_comment":true,"share_count":1,"type":"hot"},{"format":"word","image":null,"published_at":1451447701,"tag":"","user":{"avatar_updated_at":1450950660,"last_visited_at":1450950660,"created_at":1450950660,"state":"active","email":"","last_device":"android_9.0.0","role":"n","login":"文化演绎","id":30838299,"icon":"20151224095100.jpg"},"image_size":null,"id":114477282,"votes":{"down":-12,"up":261},"created_at":1451440042,"content":"从前有一对夫妻，牵手相伴二十年，相亲相爱，夫妻二人都爱吃鱼，每次大爷都把鱼头夹给大妈，大妈把鱼尾夹给大爷，就这样过了六十年，有一天大爷说\u201c老伴，六十年了，今天咱们谁爱吃什么夹什么，谁都不给谁夹了\u201d，大爷夹了鱼头，而大妈却夹了鱼尾，这个故事告诉我们，你喜欢的并不是所有人都喜欢的，。。。。","state":"publish","comments_count":7,"allow_comment":true,"share_count":3},{"format":"word","image":null,"published_at":1451450102,"tag":"","user":{"avatar_updated_at":1448806764,"last_visited_at":1426596107,"created_at":1426596107,"state":"active","email":"","last_device":"android_6.4.0","role":"n","login":"华山老鬼","id":26699830,"icon":"nopic.jpg"},"image_size":null,"id":114478412,"votes":{"down":-19,"up":370},"created_at":1451446473,"content":"某男和女友开玩笑比高，女友说，\u201c站着高有啥用，要比躺下谁高！\u201d\n\u2026\u2026结果还是男的高。\n 女友说，\u201c这样吧，你摸我最高处3分钟，我摸你最高处三分钟，然后再比！\u201d\n 女友只摸了男的三下，男的说，\u201c行了，我已经输了\u2026\u2026\u201d","state":"publish","comments_count":9,"allow_comment":true,"share_count":7},{"format":"word","image":null,"published_at":1451444701,"tag":"","user":{"avatar_updated_at":1449699069,"last_visited_at":1347889284,"created_at":1347889284,"state":"active","email":" ","last_device":"android_2.0.5","role":"n","login":"（驹迷）超越","id":3651576,"icon":"20151209221109.jpg"},"image_size":null,"id":114477608,"votes":{"down":-19,"up":389},"created_at":1451441846,"content":"初中时！语文老师（女）刚大学毕业生，年轻漂亮！每次上课都管不住学生，经常被气的脸红脖子粗的。一天正上着课，课嘈杂声掩盖过了她的讲课声。只听到她气急败坏的吼到：\u201c你们谁在吵，老娘我干死谁。\u201d瞬间教室安静，突然角落传来一声：\u201c求干！\u201d接着教室又沸腾了。。。。。","state":"publish","comments_count":7,"allow_comment":true,"share_count":6},{"format":"word","image":null,"published_at":1451437503,"tag":"","user":{"avatar_updated_at":0,"last_visited_at":1443035655,"created_at":1443035655,"state":"bonded","email":"2419364191@qq.com","last_device":"android_8.1.1","role":"n","login":"葫芦岛丶吴奇隆","id":30335115,"icon":"20150923191415.jpg"},"image_size":null,"id":114476490,"votes":{"down":-21,"up":769},"created_at":1451435604,"content":"QQ结识一妹子，。聊的各种high，很快就见了面，。当时我就哭了。。。那女的是我初中英语老师。。。","state":"publish","comments_count":16,"allow_comment":true,"share_count":4},{"format":"word","image":null,"published_at":1451450101,"tag":"","user":{"avatar_updated_at":1449757729,"last_visited_at":1447744193,"created_at":1447744193,"state":"active","email":"","last_device":"android_8.3.3","role":"n","login":"猫咪噻月光","id":30631896,"icon":"20151210142849.jpg"},"image_size":null,"id":114478706,"votes":{"down":-11,"up":287},"created_at":1451448138,"content":"昨天下午睡觉睡过头了，手机也没电关机了！醒来已经5点了，赶到幼儿园的时候全校只剩下儿子一个人了，以为他会哭？他只说了一句，干嘛来接我啊？老师说你不来接我就去跟她睡\u2026\u2026\u2026","state":"publish","comments_count":3,"allow_comment":true,"share_count":3},{"format":"word","image":null,"published_at":1451455811,"tag":"","user":{"avatar_updated_at":1451456768,"last_visited_at":1376199796,"created_at":1376199796,"state":"active","email":"","last_device":"android_2.5.3","role":"n","login":"你奔月的嫦娥姐姐","id":10660015,"icon":"nopic.jpg"},"image_size":null,"id":114479371,"votes":{"down":-6,"up":69},"created_at":1451451667,"content":"月初的事儿。。。晚上十点下班，遇见一踩滑板的，溜到前面后，想从马路上直接跳到人行道上，因为有个台阶嘛，可能重心不稳，滑板直接飞出去了，人也直接一屁股坐在了地上，估计是因为只有一半坐在了那个台阶上，然后他晃了一下手，人又直接掉下去坐在了马路上，真心看着都疼啊！","state":"publish","comments_count":0,"allow_comment":true,"share_count":0,"type":"fresh"}]
      * total : 300
      * page : 1
      * refresh : 300
      */
-   @SerializedName("page")
+
+    private int count;
+    private int err;
+    private int total;
     private int page;
+    private int refresh;
     /**
      * format : word
      * image : null
-     * published_at : 1451360103
+     * published_at : 1451439901
      * tag :
-     * user : {"avatar_updated_at":1404863863,"last_visited_at":1390996170,"created_at":1390996170,"state":"bonded","email":"1282563353@qq.com","last_device":"android_2.7","role":"n","login":"天下第八百六十一帅","id":13865837,"icon":"nopic.jpg"}
+     * user : {"avatar_updated_at":1355230846,"last_visited_at":1355230584,"created_at":1355230584,"state":"active","email":" ","last_device":"android_2.1.1","role":"n","login":"和尚爱飘柔","id":5036481,"icon":""}
      * image_size : null
-     * id : 114464686
-     * votes : {"down":-131,"up":6043}
-     * created_at : 1451358753
-     * content : 本人小女子一枚，回家后，把内衣里的胸垫随便的丢在了桌上。老妈看见后就问我这是什么东西？我不屑的说：“作为一个女人，居然连这都不知道！”结果换来我妈一句：“作为一个女人还用这玩意？！”口气超鄙视！我瞬间觉得被我妈秒杀了!
+     * id : 114476880
+     * votes : {"down":-82,"up":2983}
+     * created_at : 1451437882
+     * content : 昨天晚上，我躺在床上玩手机，老婆在一边和我讨论充气娃娃，问我男的是不是都喜欢充气娃娃，充气娃娃怎么用，会舒服吗？！！唠叨了半天，最后娇羞的对我说，老公你就把我当充气娃娃吧。我搂过媳妇看了一下说：我找找哪里能放气！！！
      * state : publish
-     * comments_count : 65
+     * comments_count : 31
      * allow_comment : true
-     * share_count : 52
+     * share_count : 16
      * type : hot
      */
     @SerializedName("items")
     private List<ItemsEntity> items;
 
+    public void setCount(int count) {
+        this.count = count;
+    }
+
+    public void setErr(int err) {
+        this.err = err;
+    }
+
+    public void setTotal(int total) {
+        this.total = total;
+    }
+
     public void setPage(int page) {
         this.page = page;
+    }
+
+    public void setRefresh(int refresh) {
+        this.refresh = refresh;
     }
 
     public void setItems(List<ItemsEntity> items) {
         this.items = items;
     }
 
+    public int getCount() {
+        return count;
+    }
+
+    public int getErr() {
+        return err;
+    }
+
+    public int getTotal() {
+        return total;
+    }
+
     public int getPage() {
         return page;
+    }
+
+    public int getRefresh() {
+        return refresh;
     }
 
     public List<ItemsEntity> getItems() {
@@ -56,66 +92,222 @@ public class Item {
     }
 
     public static class ItemsEntity {
+        @SerializedName("format")
+        private String format;
         @SerializedName("image")
         private Object image;
+        @SerializedName("published_at")
+        private int published_at;
+        @SerializedName("tag")
+        private String tag;
         /**
-         * avatar_updated_at : 1404863863
-         * last_visited_at : 1390996170
-         * created_at : 1390996170
-         * state : bonded
-         * email : 1282563353@qq.com
-         * last_device : android_2.7
+         * avatar_updated_at : 1355230846
+         * last_visited_at : 1355230584
+         * created_at : 1355230584
+         * state : active
+         * email :
+         * last_device : android_2.1.1
          * role : n
-         * login : 天下第八百六十一帅
-         * id : 13865837
-         * icon : nopic.jpg
+         * login : 和尚爱飘柔
+         * id : 5036481
+         * icon :
          */
         @SerializedName("user")
         private UserEntity user;
+        @SerializedName("image_size")
+        private Object image_size;
         @SerializedName("id")
         private int id;
+        /**
+         * down : -82
+         * up : 2983
+         */
+        @SerializedName("votes")
+        private VotesEntity votes;
+        @SerializedName("create_at")
+        private int created_at;
         @SerializedName("content")
         private String content;
+        @SerializedName("state")
+        private String state;
+        @SerializedName("comments_count")
+        private int comments_count;
+        @SerializedName("allow_comment")
+        private boolean allow_comment;
+        @SerializedName("share_count")
+        private int share_count;
+        @SerializedName("type")
+        private String type;
+
+        public void setFormat(String format) {
+            this.format = format;
+        }
 
         public void setImage(Object image) {
             this.image = image;
+        }
+
+        public void setPublished_at(int published_at) {
+            this.published_at = published_at;
+        }
+
+        public void setTag(String tag) {
+            this.tag = tag;
         }
 
         public void setUser(UserEntity user) {
             this.user = user;
         }
 
+        public void setImage_size(Object image_size) {
+            this.image_size = image_size;
+        }
+
         public void setId(int id) {
             this.id = id;
+        }
+
+        public void setVotes(VotesEntity votes) {
+            this.votes = votes;
+        }
+
+        public void setCreated_at(int created_at) {
+            this.created_at = created_at;
         }
 
         public void setContent(String content) {
             this.content = content;
         }
 
+        public void setState(String state) {
+            this.state = state;
+        }
+
+        public void setComments_count(int comments_count) {
+            this.comments_count = comments_count;
+        }
+
+        public void setAllow_comment(boolean allow_comment) {
+            this.allow_comment = allow_comment;
+        }
+
+        public void setShare_count(int share_count) {
+            this.share_count = share_count;
+        }
+
+        public void setType(String type) {
+            this.type = type;
+        }
+
+        public String getFormat() {
+            return format;
+        }
+
         public Object getImage() {
             return image;
+        }
+
+        public int getPublished_at() {
+            return published_at;
+        }
+
+        public String getTag() {
+            return tag;
         }
 
         public UserEntity getUser() {
             return user;
         }
 
+        public Object getImage_size() {
+            return image_size;
+        }
+
         public int getId() {
             return id;
+        }
+
+        public VotesEntity getVotes() {
+            return votes;
+        }
+
+        public int getCreated_at() {
+            return created_at;
         }
 
         public String getContent() {
             return content;
         }
 
+        public String getState() {
+            return state;
+        }
+
+        public int getComments_count() {
+            return comments_count;
+        }
+
+        public boolean isAllow_comment() {
+            return allow_comment;
+        }
+
+        public int getShare_count() {
+            return share_count;
+        }
+
+        public String getType() {
+            return type;
+        }
+
         public static class UserEntity {
+            @SerializedName("avatar_updated_at")
+            private int avatar_updated_at;
+            @SerializedName("last_visited_at")
+            private int last_visited_at;
+            @SerializedName("created_at")
+            private int created_at;
+            @SerializedName("state")
+            private String state;
+            @SerializedName("email")
+            private String email;
+            @SerializedName("last_device")
+            private String last_device;
+            @SerializedName("role")
+            private String role;
             @SerializedName("login")
             private String login;
             @SerializedName("id")
             private int id;
             @SerializedName("icon")
             private String icon;
+
+            public void setAvatar_updated_at(int avatar_updated_at) {
+                this.avatar_updated_at = avatar_updated_at;
+            }
+
+            public void setLast_visited_at(int last_visited_at) {
+                this.last_visited_at = last_visited_at;
+            }
+
+            public void setCreated_at(int created_at) {
+                this.created_at = created_at;
+            }
+
+            public void setState(String state) {
+                this.state = state;
+            }
+
+            public void setEmail(String email) {
+                this.email = email;
+            }
+
+            public void setLast_device(String last_device) {
+                this.last_device = last_device;
+            }
+
+            public void setRole(String role) {
+                this.role = role;
+            }
 
             public void setLogin(String login) {
                 this.login = login;
@@ -129,6 +321,34 @@ public class Item {
                 this.icon = icon;
             }
 
+            public int getAvatar_updated_at() {
+                return avatar_updated_at;
+            }
+
+            public int getLast_visited_at() {
+                return last_visited_at;
+            }
+
+            public int getCreated_at() {
+                return created_at;
+            }
+
+            public String getState() {
+                return state;
+            }
+
+            public String getEmail() {
+                return email;
+            }
+
+            public String getLast_device() {
+                return last_device;
+            }
+
+            public String getRole() {
+                return role;
+            }
+
             public String getLogin() {
                 return login;
             }
@@ -139,6 +359,29 @@ public class Item {
 
             public String getIcon() {
                 return icon;
+            }
+        }
+
+        public static class VotesEntity {
+            @SerializedName("down")
+            private int down;
+            @SerializedName("up")
+            private int up;
+
+            public void setDown(int down) {
+                this.down = down;
+            }
+
+            public void setUp(int up) {
+                this.up = up;
+            }
+
+            public int getDown() {
+                return down;
+            }
+
+            public int getUp() {
+                return up;
             }
         }
     }
